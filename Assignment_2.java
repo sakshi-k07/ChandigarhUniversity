@@ -1,3 +1,16 @@
+/*
+ * Aim: 
+ * To create a program that collects and stores all the cards, assisting users in finding all the 
+ * cards with a given symbol using the Collection interface.
+ *
+ * Objectives:
+ * 1. Implement a Card class to store details of each card.
+ * 2. Use a Collection interface (ArrayList) to store multiple cards.
+ * 3. Allow users to add cards dynamically.
+ * 4. Implement a method to retrieve all cards based on a given symbol.
+ * 5. Provide a user-friendly interface for searching and displaying cards.
+ */
+//Code
 import java.util.*;
 
 class Card {
